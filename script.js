@@ -1,4 +1,9 @@
 //generate//
+function requirements(){
+    var prompt1 = prompt("How many characters do you want your password to contain? (Password must contain 8 characters minimum to 126 characters maximum")
+
+}
+
 function generate(){
     //seet password length/complexity//
     let complexity = document.getElementById("slider").value;
