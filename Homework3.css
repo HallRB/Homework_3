@@ -1,0 +1,107 @@
+
+
+body {
+  background-color:aliceblue;
+  font-size: 14px;
+  background-color: black;
+  font-family: Cinzel;
+}
+
+
+#box0 {
+  background-image: url("https://www.venafi.com/sites/default/files/styles/823x390/public/content/blog/2020-05/Vault2_newblog.png?itok=Vm0qbgL2");
+  height: 500px;
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  float: inherit;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 10px;
+}
+header {
+  text-align: center;
+  color: rgb(179, 178, 178); 
+  font-family: Cinzel;
+}
+
+.boxHead {
+  color: rgb(179, 178, 178);
+  font-weight: bolder;
+  font-size: larger;
+  resize: both;
+  overflow: auto;
+  width: auto;
+  height: 100px;
+ 
+}
+h1 {
+  font-size: 3.5em;
+}
+
+input {
+  border: 25px azure;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 2em;
+  color: azure;
+  width: 100%;
+}
+
+button {
+  height: 60px;
+  width: 180px;
+  margin: 5px;
+  margin-top: 10px;
+  border-radius: ;
+  font-size: 1.5em;
+  background-color: rgb(80, 101, 107);
+  border: none;
+  color: #fdfdfd;
+  cursor: pointer;
+  border-style: groove;
+}
+
+
+.boxBod {
+  width: auto;
+  align-self: center;
+  text-align: center;
+  font-size: large;
+  resize: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+textarea {
+  width: 322px;
+  position: static;
+  height: 287px;
+  margin-top: -22px;
+  margin-right: 3px;
+  margin-bottom: -15px;
+  text-align: left;
+  font-size: 27.3px;
+  background-color: rgba(77, 94, 109, 0.5);
+  color: rgb(204, 204, 202)
+}
+
+#vault {
+  position: absolute;
+  z-index: -1;
+  align-self: left;
+}
+
+#butt0 {
+  text-align: center;
+  line-break: auto;
+  line-height: 25px;
+  margin-left: -5px;
+
+}
+
+#butt1 {
+  text-align: center;
+  line-break: auto;
+  line-height: 25px;
+}
