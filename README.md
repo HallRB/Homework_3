@@ -1,5 +1,5 @@
 # Unit 03: JavaScript
-## random password generator script
+## Random password generator script
 
 ## Purpose
 Website provides a user with the ability to generate a random string of characters as a password.
