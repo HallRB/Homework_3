@@ -1,5 +1,5 @@
-# Homework_3
-random password generator script
+# Unit 03: JavaScript
+## random password generator script
 
 Website provides a user with the ability to generate a random string of characters as a password.
 
